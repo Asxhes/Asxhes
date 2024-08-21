@@ -1,4 +1,5 @@
 ## Hi there 👋
+- ⚡ My name is Ashley and i'm just a kid who is enthusiastic about computer science
 - 🌱 I’m currently learning Python, Lua, Reverse Engineering and C++
 <!--
 **Asxhes/Asxhes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
